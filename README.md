@@ -5,7 +5,7 @@ Job Listing
 This project is a mobile application where users can browse job listings, view job details, and save their favorite jobs.
 
 
-Features
+FEATURES
 View job listings
 View detailed job descriptions
 Add and remove jobs from favorites
@@ -13,7 +13,7 @@ Side menu to access favorite jobs
 
 
 
-Screenshots
+SCREENSHOTS
 
 Home Page
 
