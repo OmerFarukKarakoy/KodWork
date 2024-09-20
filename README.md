@@ -12,7 +12,9 @@ Add and remove jobs from favorites
 Side menu to access favorite jobs
 
 
+
 Screenshots
+
 Home Page
 
 ![Ekran görüntüsü](https://github.com/user-attachments/assets/4afdf2a4-b6a7-4a50-a6bb-9ba93fa5e228)
@@ -30,6 +32,7 @@ Favorites Page
 ![Ekran görüntüsü7](https://github.com/user-attachments/assets/09ca9dd3-a5de-4ef7-9950-29b37a103f3d)
 
 
+
 Technologies Used
 
 React Native: Used for building the mobile application.
@@ -43,8 +46,10 @@ React Navigation: For managing navigation between different screens.
 Lottie Animations: To display loading and error animations for better user experience.
 
 
+
 API
 The project retrieves job data from an external API. This includes fetching job listings, detailed descriptions, and related information such as job levels and locations.
+
 
 
 Usage
