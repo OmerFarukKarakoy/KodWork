@@ -1,6 +1,7 @@
 KodWork
 
 Job Listing
+
 This project is a mobile application where users can browse job listings, view job details, and save their favorite jobs.
 
 
@@ -30,11 +31,17 @@ Favorites Page
 
 
 Technologies Used
+
 React Native: Used for building the mobile application.
+
 Redux: For state management, ensuring consistent data across the app.
+
 Axios: Used for fetching data from the API.
+
 React Navigation: For managing navigation between different screens.
+
 Lottie Animations: To display loading and error animations for better user experience.
+
 
 API
 The project retrieves job data from an external API. This includes fetching job listings, detailed descriptions, and related information such as job levels and locations.
