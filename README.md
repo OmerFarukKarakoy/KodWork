@@ -6,6 +6,7 @@ This project is a mobile application where users can browse job listings, view j
 
 
 FEATURES
+
 View job listings
 View detailed job descriptions
 Add and remove jobs from favorites
