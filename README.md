@@ -33,7 +33,7 @@ Favorites Page
 
 
 
-Technologies Used
+TECHNOLOGIES USED
 
 React Native: Used for building the mobile application.
 
@@ -48,13 +48,14 @@ Lottie Animations: To display loading and error animations for better user exper
 
 
 API
+
 The project retrieves job data from an external API. This includes fetching job listings, detailed descriptions, and related information such as job levels and locations.
 
 
 
-Usage
+USAGE
 The app allows users to explore job listings, read detailed descriptions of each job, and add/remove jobs from their favorites. The side menu can be used to access the favorite jobs list easily.
 
-License
+LİCENSE
 This project is licensed under the MIT License.
 
