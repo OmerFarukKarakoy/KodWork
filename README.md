@@ -62,5 +62,5 @@ Kullanıcılar uygulama üzerinden iş ilanlarını gezebilir, detay sayfaların
 
 ## 👨‍💻 Geliştirici
 
-Bu proje **Ömer Faruk Karakoy** tarafından geliştirilmiştir.  
+Bu proje **Ömer Faruk Karaköy** tarafından geliştirilmiştir.  
 
